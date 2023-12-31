@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="nav-logo">
         <img src={logo} alt="" />
-       <Link to="/" style={{textDecoration:"none", fontSize:"30px"}}><b>Shopfy</b></Link> 
+       <Link to="/" style={{textDecoration:"none", fontSize:"30px"}}><b>Shopify</b></Link> 
       </div>
 
       <ul className="nav-menu">
